@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1, h2, h3 {
+    @apply font-serif;
+}
+
+div, span, p {
+  @apply font-text;
+}
+
+a {
+  @apply font-links;
+}

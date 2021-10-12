@@ -1,3 +1,10 @@
+# Defaults
 node_modules/
 .cache/
 public
+
+# Using Yarn
+package-lock.json
+
+# Log files
+*.log
